@@ -1,1 +1,1 @@
-h4. %{color:red}All documentation will be in the "wiki": %
+h4. All documentation will be in the "wiki":http://wiki.github.com/barrie0482/rrdtool_perl_module_win32_build
